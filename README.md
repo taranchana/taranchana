@@ -11,7 +11,7 @@
 A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
 ⚠️ All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
 
----
+--
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, Java
@@ -59,7 +59,7 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
+--
 
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/taran-chana/)  
