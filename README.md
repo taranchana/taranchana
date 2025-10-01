@@ -64,6 +64,6 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/taran-chana/)  
 
----
+
 
 ✨ Thanks for visiting my profile! Feel free to check out my projects, star the repos you like, or connect with me.  
