@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I’m Taran 👋  
 
-<!--
-**taranchana/taranchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science student at Aston University  
+🔬 Passionate about **cybersecurity, networking, and privacy-preserving tech**  
+💻 Currently working on my final year project: **WiFi Geo Mapping**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Project
+📡 **[WiFi Geo Mapping](https://github.com/taranchana/wifi-geo-mapping)**  
+A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
+⚠️ All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
+
+---
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python, Java
+- **Tools:** Git, Wireshark, tcpdump, Linux  
+- **Domains:** Networking, Cybersecurity, Data Privacy  
+- **Other Interests:** Ethical hacking, open-source software, forensics  
+
+---
+
+## 📈 GitHub Stats
+![Taran's GitHub stats](https://github-readme-stats.vercel.app/api?username=taranchana&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taranchana&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/taran-chana/)  
+
+---
+
+✨ Thanks for visiting my profile! Feel free to check out my projects, star the repos you like, or connect with me.  
