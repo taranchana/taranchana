@@ -19,7 +19,6 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
 - **Domains:** Networking, Cybersecurity, Data Privacy  
 - **Other Interests:** Ethical hacking, open-source software, forensics  
 
----
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -60,15 +59,6 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 ---
 
 ## 🌐 Connect with Me
