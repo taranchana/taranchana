@@ -7,17 +7,26 @@
 ---
 
 ## 🚀 Current Project
-📡 **[WiFi Geo Mapping](https://github.com/taranchana/wifi-geo-mapping)**  
+**[WiFi Geo Mapping](https://github.com/taranchana/wifi-geo-mapping)**  
 A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
-⚠️ All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
+All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 - **Languages:** Python, Java
 - **Tools:** Git, Wireshark, tcpdump, Linux  
 - **Domains:** Networking, Cybersecurity, Data Privacy  
 - **Other Interests:** Ethical hacking, open-source software, forensics  
+
+---
+
+## Visitor Count
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/taran-chana/count.svg" alt="Visitor's Count" />
+
+</div>
 
 ---
 
