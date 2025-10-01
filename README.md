@@ -21,12 +21,6 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
 
 ---
 
-## 📈 GitHub Stats
-![Taran's GitHub stats](https://github-readme-stats.vercel.app/api?username=taranchana&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taranchana&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/taran-chana/)  
 
