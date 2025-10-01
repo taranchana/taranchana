@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Current Project
-📡 **[WiFi Geo Mapping](https://github.com/taranchana/wifi-geo-mapping)**  
+📡 **[WiFi Geo Mapping](https://github.com/taranchana/WiFi-Geolocation-FYP)**  
 A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
 ⚠️ All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
 
