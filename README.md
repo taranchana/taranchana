@@ -60,15 +60,6 @@ A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taranchana/taranchana/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 ---
 
 ## 🌐 Connect with Me
