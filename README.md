@@ -1,5 +1,4 @@
 # Hey👋 
----
 
 I'm Taran, an aspiring cyber security engineer from the UK. I currently work on my university final year project, which is detailed below. Throughout my career, I've built tools with both privacy-by-design and security-by-design principles taking the front reigns.
 
@@ -8,7 +7,6 @@ I'm Taran, an aspiring cyber security engineer from the UK. I currently work on 
 - A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
 - All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
 
----
 
 ## Tech Stack & Skills
 - **Languages:** Python, Java
