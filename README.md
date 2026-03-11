@@ -5,7 +5,7 @@ I'm Taran, an aspiring cyber security engineer from the UK. I currently work on 
 ## Current Project
 **[WiFi Geo Mapping](https://github.com/taranchana/WiFi-Geolocation-FYP)**  
 - A Python proof-of-concept that captures Wi-Fi Probe Requests, extracts SSIDs, and visualises them on real maps.  
-- All experiments use **synthetic/self-produced data only** — designed to highlight privacy risks in a safe, ethical way.  
+- All experiments use **synthetic/self-produced data only**, which was designed to highlight privacy risks in a safe, ethical way.  
 
 
 ## Tech Stack & Skills
