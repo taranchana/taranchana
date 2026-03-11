@@ -13,6 +13,3 @@ I'm Taran, an aspiring cyber security engineer from the UK. I currently work on 
 - **Tools:** Git, Wireshark, Git, Linux, Docker
 - **Interests:** Network Security Monitoring, Cybersecurity, Data Privacy, Packet Capture Analysis
 
-
-
-✨ Thanks for visiting my profile! Feel free to check out my projects, star the repos you like, or connect with me.  
