@@ -1,7 +1,7 @@
-# Hey👋  
+# Hey👋 
+---
 
 I'm Taran, an aspiring cyber security engineer from the UK. I currently work on my university final year project, which is detailed below. Throughout my career, I've built tools with both privacy-by-design and security-by-design principles taking the front reigns.
----
 
 ## Current Project
 **[WiFi Geo Mapping](https://github.com/taranchana/WiFi-Geolocation-FYP)**  
